@@ -1,0 +1,17 @@
+{
+  "codes": [
+    { "id": 1, "value": "bad-request" },
+    { "id": 2, "value": "unauthorized" },
+    { "id": 3, "value": "method-not-allowed" },
+    { "id": 4, "value": "forbidden" },
+    { "id": 5, "value": "internal-server-error" },
+    { "id": 6, "value": "method-not-found" }
+  ],
+  "teams": [
+    { "id": 1, "name": "alpha" },
+    { "id": 2, "name": "beta" },
+    { "id": 3, "name": "central" },
+    { "id": 4, "name": "gamma" },
+    { "id": 5, "name": "ops" }
+  ]
+}
